@@ -1,0 +1,14 @@
+
+h1 {
+    color: whitesmoke;
+    font-weight: bold;
+}
+.main-advert {
+    max-width: 620px;
+}
+.main-advert h1 {
+    font-size: 48px;
+}
+.main-advert h5 {
+    font-size: 26px;
+}
